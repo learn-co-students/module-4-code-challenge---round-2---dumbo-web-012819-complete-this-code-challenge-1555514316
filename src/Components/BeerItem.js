@@ -1,10 +1,9 @@
 import React from "react";
-import BeerCard from "./BeerCard";
 
-const BeerItem = props => {
+const BeerItem = () => {
   return (
-    <li className="beer-item" onClick={() => props.clickHandler(props.beer)}>
-      {props.beer.name}
+    <li className="beer-item" onClick={() => {}}>
+      {/* beer name goes here */}
     </li>
   );
 };

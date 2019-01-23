@@ -1,11 +1,9 @@
-import React, { Component } from "react";
+import React from "react";
 import "./App.css";
 import BeerContainer from "./Containers/BeerContainer";
 
-class App extends Component {
-  render() {
-    return <BeerContainer />;
-  }
-}
+const App = () => {
+  return <BeerContainer />;
+};
 
 export default App;
