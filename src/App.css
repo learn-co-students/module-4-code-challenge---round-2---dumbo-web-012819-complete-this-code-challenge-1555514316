@@ -30,3 +30,21 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  position: relative;
+  float: right;
+  padding-right: 30%;
+}
+.beer-card {
+  width: 30%;
+  height: 30%;
+}
+img {
+  width: 20%;
+  height: 20%;
+}
+.search {
+  position: absolute;
+  right: 35%;
+}
