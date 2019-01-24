@@ -7,7 +7,7 @@ class BeerContainer extends Component {
         <Search />
         <br />
         <ul className="container">{/*render Beer Items Here*/}</ul>
-        <BeerCard />
+        <BeerDetail />
       </div>
     );
   }
