@@ -16,7 +16,7 @@
 
 ![beer gif](App-Gif.gif)
 
-### Setting up the json server
+## Setting up the json server
 
 1 - Run the command npm install -g json-server in the command line from this directory
 
