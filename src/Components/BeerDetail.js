@@ -1,6 +1,6 @@
 import React from "react";
 
-const BeerCard = () => {
+const BeerDetail = () => {
   return (
     <div className="beer-card">
       <img alt="" src={""} />
@@ -9,4 +9,4 @@ const BeerCard = () => {
   );
 };
 
-export default BeerCard;
+export default BeerDetail;
