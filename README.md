@@ -14,4 +14,4 @@
 
 -- As a user, I can filter through the beer list by typing the name of a beer in the search input
 
-![beer gif](App Gif .gif)
+![beer gif](App-Gif.gif)
