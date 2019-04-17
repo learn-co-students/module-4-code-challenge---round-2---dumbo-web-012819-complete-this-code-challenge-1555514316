@@ -1,7 +1,9 @@
 import React from "react";
 
-const Search = () => {
-  return <form className="search">{/*Build Form Here*/}</form>;
+const Search = (props) => {
+  return <form className="search">
+      <input placeholder="search beers" name="name" onChange={props.handleChange}></input>
+    </form>;
 };
 
 export default Search;
