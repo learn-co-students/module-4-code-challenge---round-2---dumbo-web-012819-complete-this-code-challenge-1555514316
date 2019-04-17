@@ -34,11 +34,12 @@
 .container {
   position: relative;
   float: right;
-  padding-right: 30%;
+  padding-right: 0%;
 }
 .beer-card {
   width: 30%;
   height: 30%;
+  padding-left: 10%
 }
 img {
   width: 20%;
@@ -46,5 +47,5 @@ img {
 }
 .search {
   position: absolute;
-  right: 35%;
+  right: 15%;
 }
